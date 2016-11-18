@@ -1,0 +1,63 @@
+body {
+	font-family: "PT Sans Narrow", "Arial", sans-serif;
+	font-size: 14px;
+  line-height: 20px;
+}
+
+h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 28px;
+	line-height: 32px;
+	color: #949494;
+	font-weight: 200;
+}
+
+h3 {
+	font-size: 20px;
+	line-height: 20px;
+	color: #fff;
+}
+
+a:hover {
+	color: #d82020;
+}
+
+a:active {
+	color: #ccc;
+}
+
+.main-navigation li {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.footer-nav-list a {
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.features-name {
+	font-size: 36px;
+	line-height: 38px;
+	color: #fff;
+
+}
+
+.features-desc {
+	color: #9688a7;
+}
+
+.features-tip-desc {
+	color: #4e4e4e;
+}
+
+.index-content-title-main {
+	color: #666;
+	font-size: 36px;
+}
+
